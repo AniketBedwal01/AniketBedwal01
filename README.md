@@ -1,11 +1,10 @@
 👋 Hi, I’m @AniketBedwal
 
-👀 I’m a Trainee Software Engineer @Genzeon
-
+👀 Learning Machine Learning and Data Science
+    
 🌱 Completed Diploma in Advanced Computing(C-DAC Pune)
 
-📫 You can connect with me on twitter @AniketBedwal98
+📫 You can connect with me on Twitter @AniketBedwal98
 
 🖇️ Linkedin> https://www.linkedin.com/in/aniketbedwal/
-
 
